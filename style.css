@@ -1,0 +1,29 @@
+:root {
+  --color-1: #fbe870;
+  --color-2: #fbf5d1;
+  --color-3: #63acf6;
+  --color-4: #e3c9b8;
+}
+
+body {
+  background-color: var(--color-3);
+}
+
+main {
+  padding-top: 10em;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: 'Righteous', cursive;
+  color: var(--color-1);
+}
+ h1 {
+   font-size: 5em;
+   margin: -.25em 0em;
+ }
+
+ h2 {
+   font-size: 2em;
+ }
